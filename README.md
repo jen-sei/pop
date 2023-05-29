@@ -8,6 +8,8 @@ Public ledger ecosystems are posing a high risk towards an individual user priva
 
 
 This is mainly due to:
-J de-anonymizing users
-J governmental surveillance
-J infringement of individual right-to-privacy
+- de-anonymizing users
+- governmental surveillance
+- infringement of individual right-to-privacy
+
+> Not every privacy has been empowered equally. (Mykola Siusko, web3privacy now)
