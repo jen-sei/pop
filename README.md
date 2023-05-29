@@ -19,8 +19,7 @@ There is a plethora of projects that claims to be Decentralized, Privacy preserv
 This poses an additional threat stemming from trust in supposedly trust-less enviroments.
 
 ## Inspiration
-This problem has been discussed with Mykola Siusko at the ETHDam 2023 Conference. It seemed 
-as something of an interest and a potential strong benefit to the broad Ethereum ecosystem.
+This problem has been discussed with [Mykola Siusko](https://twitter.com/nicksvyaznoy) at the [ETHDam 2023 Conference](https://www.ethdam.com/). It seemed as something of an interest and a potential strong benefit to the broad Ethereum ecosystem.
 
 
 Looking at the L2BEAT.com platform and their “Risk Assessment” Analysis of individual Ethereum L2 scaling solution inspired me to suggest and showcase a proof-of-idea for how this problem can be visualized for easy consumption of researchers, crypto enthusiast, degens as well as crypto beginners.
