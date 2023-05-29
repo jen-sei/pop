@@ -25,7 +25,7 @@ as something of an interest and a potential strong benefit to the broad Ethereum
 
 Looking at the L2BEAT.com platform and their “Risk Assessment” Analysis of individual Ethereum L2 scaling solution inspired me to suggest and showcase a proof-of-idea for how this problem can be visualized for easy consumption of researchers, crypto enthusiast, degens as well as crypto beginners.
 
-Illustration below is taken from L2BEAT.com [L2BEAT.com](https://l2beat.com/scaling/tvl).
+Illustration below is taken from [L2BEAT.com](https://l2beat.com/scaling/tvl).
 
 ![image](https://github.com/jen-sei/pop/assets/101796507/2f4fda9b-084d-4805-b508-6de9157768b7)
 
