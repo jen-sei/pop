@@ -3,7 +3,7 @@
 
 Research focused platform to demystify claims of privacy tooling on Ethereum. Proposed as additional and supporting body of web3privacy.info
 
-##Problem
+## Problem
 Public ledger ecosystems are posing a high risk towards an individual user privacy. 
 
 
@@ -12,4 +12,4 @@ This is mainly due to:
 - governmental surveillance
 - infringement of individual right-to-privacy
 
-> Not every privacy has been empowered equally. (Mykola Siusko, web3privacy now)
+> "Not every privacy has been empowered equally." (Mykola Siusko, web3privacy now)
